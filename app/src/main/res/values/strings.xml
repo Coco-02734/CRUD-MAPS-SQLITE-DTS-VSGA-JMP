@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">CRUD SQLITE</string>
+    <string name="title_activity_peta">Map</string>
+</resources>
